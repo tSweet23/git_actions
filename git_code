@@ -1,0 +1,3 @@
+#git delete commit
+git reset -hard HEAD~
+git push origin +master
